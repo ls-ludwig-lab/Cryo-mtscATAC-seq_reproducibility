@@ -1,0 +1,4 @@
+Sample_ID	minPeakFrag	maxPeakFrag	minPercPeak	maxNucleoSig	minTSS	MinStrandCor	MinVMR	MinCellVar	minMitoDepth	Patient
+NB01	250	20000	10	2	1.5	0.65	0.01	1	5	1
+NB02	250	20000	10	2	1.5	0.65	0.01	1	5	1
+GN01	250	20000	7.5	1.5	1.5	0.65	0.01	1	0	2
